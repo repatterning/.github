@@ -1,4 +1,27 @@
-🙋‍♀️ A short introduction by 28 February 2025. 
+# Hello
+
+Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
+
+<br>
+<br>
+
+<details><summary><b>Jots</b></summary>
+  
+<h3>BACKEND</h3>
+Thus far:
+<ul>
+  <li>configurations: Records data & modelling configurations.</li>
+  <li>iac: Infrastructure as code scripts.</li>
+</ul>
+
+<h3>STATE MACHINES</h3>
+Will include:
+<ul>
+  <li><b>data</b>: [daily]<br>A data acquisition module</li>
+  <li><b>sandbox</b>: [daily]<br>A forecasting module</li>
+</ul>
+</details>
+
 
 <!--
 
