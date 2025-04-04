@@ -5,6 +5,17 @@ Parent: [The Artificial Intelligence Unit](https://github.com/theartificialintel
 <br>
 <br>
 
+<br>
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
+<!--
+
 <details><summary><b>Jots</b></summary>
   
 <h3>BACKEND</h3>
@@ -22,6 +33,7 @@ Will include:
 </ul>
 </details>
 
+-->
 
 <!--
 
