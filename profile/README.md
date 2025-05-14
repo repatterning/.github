@@ -10,7 +10,6 @@ stateDiagram-v2
 
       classDef SNS fill:#000,color:white,font-weight:bold,stroke-width:0
       class success SNS
-      class failure SNS   
 
       [*] --> daily
       daily --> structures
@@ -27,12 +26,9 @@ stateDiagram-v2
       quantiles --> integrator
       viability --> integrator
       integrator --> success
-      
-      daily --> failure
-      structures --> failure
 
       success --> [*]
-      failure --> [*]
+
 ```
 
 <br>
