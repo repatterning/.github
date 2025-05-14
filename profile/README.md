@@ -7,6 +7,11 @@
 ```mermaid
 stateDiagram-v2
     state director <<fork>>
+
+      classDef SNS fill:#000,color:white,font-weight:bold,stroke-width:0
+      class success SNS
+      class failure SNS   
+
       [*] --> daily
       daily --> structures
       structures --> director
