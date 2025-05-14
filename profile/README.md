@@ -3,33 +3,12 @@
 * [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
 <br>
+<br>
 
-```mermaid
-stateDiagram-v2
-    state director <<fork>>
+<div style="margin-left:65px">
+    <img src="repatterning.png" alt="States"/>
+</div>
 
-      classDef SNS fill:#000,color:white,font-weight:bold,stroke-width:0
-      class success SNS
-
-      [*] --> daily
-      daily --> structures
-      structures --> director
-      director --> measurements
-      director --> drift
-      director --> quantiles
-      director --> variational
-      variational --> viability
-
-      state integrator <<join>>
-      measurements --> integrator
-      drift --> integrator
-      quantiles --> integrator
-      viability --> integrator
-      integrator --> success
-
-      success --> [*]
-
-```
 
 <br>
 <br>
