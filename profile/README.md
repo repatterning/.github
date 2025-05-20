@@ -5,9 +5,7 @@
 <br>
 <br>
 
-<div style="margin-left:65px">
-    <img src="repatterning.png" alt="States"/>
-</div>
+This hub host's the repositories of the river levels intellligence pages.
 
 
 <br>
@@ -24,6 +22,10 @@
 
 
 <!--
+
+<div style="margin-left:65px">
+    <img src="repatterning.png" alt="States"/>
+</div>
 
 <details><summary><b>Notes</b></summary>
 
