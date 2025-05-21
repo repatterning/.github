@@ -5,7 +5,7 @@
 <br>
 <br>
 
-This hub host's the repositories of the river levels intellligence pages.
+This hub host's the repositories of the <a href="https://d3h5uy7f3ttkyl.cloudfront.net/index.html">river levels intellligence pages</a>.  At present, end of May 2025, the product developers are editing/updating the pages; editing occurs during unobtrusive periods of the day. 
 
 <br>
 <br>
