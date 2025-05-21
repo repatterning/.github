@@ -7,6 +7,31 @@
 
 This hub host's the repositories of the river levels intellligence pages.
 
+<br>
+<br>
+
+<details><summary><b>Notes</b></summary>
+
+<h2>PERIODIC</h2>
+
+Schedule: Once a week
+
+<div style="margin-left:65px;">
+    <img width="69%" height="69%" src="periodic.png" alt="States"/>
+</div>
+
+<br>
+<br>
+
+<h2>CONTINUOUS</h2>
+
+Schedule: 6 days a week
+
+<div style="margin-left:65px; width:35%">
+    <img width="60%" height="60%" src="continuous.png" alt="States"/>
+</div>
+
+</details>
 
 <br>
 <br>
@@ -22,10 +47,6 @@ This hub host's the repositories of the river levels intellligence pages.
 
 
 <!--
-
-<div style="margin-left:65px">
-    <img src="repatterning.png" alt="States"/>
-</div>
 
 <details><summary><b>Notes</b></summary>
 
