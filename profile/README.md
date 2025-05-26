@@ -27,8 +27,8 @@ Schedule: Once a week
 
 Schedule: 6 days a week
 
-<div style="margin-left:65px; width:35%">
-    <img width="60%" height="60%" src="continuous.png" alt="States"/>
+<div style="margin-left:65px;">
+    <img width="95%" height="95%" src="continuous.png" alt="States"/>
 </div>
 
 </details>
