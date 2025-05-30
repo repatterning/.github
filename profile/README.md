@@ -3,7 +3,6 @@
 * [The Artificial Intelligence Unit](https://github.com/theartificialintelligenceunit)
 
 <br>
-<br>
 
 <details><summary><b>Notes</b></summary>
 
