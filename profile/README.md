@@ -6,31 +6,16 @@ This hub host's the repositories of the <a href="https://theartificialintelligen
 
 <br>
 
-<details><summary><b>Notes</b></summary>
+&nbsp; | purpose
+:--- | :---
+daily | Retrieves the latest river level measures, vis-à-vis the previous 24 hours.
+structures | Structures the latest data, deals with anomalies, e.g., missing measure points.
+measures | Prepares raw measures for graphing.
+contrasts | Calculates hourly percentage changes, and prepares the calculations for graphing.
+quantiles | Calculates quantiles and extrema, and prepares the calculations for graphing.
+drift | Calculates drift.
+variational | For Bayesian state space modelling of time series; viability is its  corresponding evaluation repository.
 
-<br>
-<br>
-
-<h2>PERIODIC</h2>
-
-Schedule: Once a week
-
-<div style="margin-left:65px;">
-    <img width="69%" height="69%" src="periodic.png" alt="States"/>
-</div>
-
-<br>
-<br>
-
-<h2>CONTINUOUS</h2>
-
-Schedule: 6 days a week
-
-<div style="margin-left:65px;">
-    <img width="60%" height="60%" src="continuous.png" alt="States"/>
-</div>
-
-</details>
 
 <br>
 <br>
@@ -43,18 +28,3 @@ Schedule: 6 days a week
 
 <br>
 <br>
-
-
-<!--
-
-<details><summary><b>Notes</b></summary>
-
-<ul>
-  <li>configurations: Records data & modelling configurations.</li>
-  <li>iac: Infrastructure as code scripts.</li>
-</ul>
-
-</details>
-
--->
-
