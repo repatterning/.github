@@ -2,9 +2,13 @@
 
 <br>
 
+### About
+
 This hub host's the repositories of the <a href="https://theartificialintelligenceunit.github.io/intelligence/html/in-river-predictions.html">river levels intellligence pages</a>.  
 
 <br>
+
+### Repositories
 
 &nbsp; | purpose
 :--- | :---
@@ -20,6 +24,32 @@ This hub host's the repositories of the <a href="https://theartificialintelligen
 &nbsp; | &nbsp;
 <a href="https://github.com/repatterning/restart" target="_blank">restart</a> | For re-acquiring historic river level data
 
+
+<br>
+
+### Model & Data
+
+<br>
+
+**Model**
+
+&nbsp; | description
+:--- | :---
+task | River level prediction
+algorithm | Bayesian Structural Time Series + Variational Inference; Bayesian Inference & State Space Models
+input | Hourly river level data
+output | Future predictions; [t](https://github.com/repatterning/configurations/blob/3e4479768e18b86c806123f37d5394d4f0489e1b/src/artefacts/architecture/variational/arguments.json#L10) hours ahead.
+prediction<br>schedule | Mondays & Fridays
+
+<br>
+
+**Data**
+
+&nbsp; | description
+:--- | :---
+name | River Level Data
+modality | Time Series
+raw data source | [SEPA API](https://timeseriesdoc.sepa.org.uk) (Scottish Environment Protection Agency Application Programming Interface)
 
 <br>
 <br>
