@@ -20,7 +20,7 @@ This hub host's the repositories of the <a href="https://theartificialintelligen
 <a href="https://github.com/repatterning/drift" target="_blank">drift</a> | Calculates drift.
 <a href="https://github.com/repatterning/variational" target="_blank">variational</a> | For Bayesian state space modelling of time series; <a href="https://github.com/repatterning/viability" target="_blank">viability</a> is its  corresponding evaluation repository.
 &nbsp; | &nbsp;
-<a href="https://github.com/repatterning/iac" target="_blank">iac</a> | Limited infrastructure as code notes.
+<a href="https://github.com/repatterning/iac" target="_blank">iac</a> | Limited infrastructure as code notes; intentionally opaque.
 &nbsp; | &nbsp;
 <a href="https://github.com/repatterning/restart" target="_blank">restart</a> | For re-acquiring historic river level data
 
